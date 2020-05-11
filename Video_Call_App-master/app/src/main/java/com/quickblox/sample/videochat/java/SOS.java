@@ -28,7 +28,7 @@ public class SOS extends BaseActivity implements View.OnClickListener{
     private static final int MY_PERMISSIONS_REQUEST_SEND_SMS = 0;
     Button button1,button2;
     private static  final int REQUEST_LOCATION=1;
-    String phoneNo="7299930321";
+    String phoneNo="enter phone number";
     String message="Ambulance service immediately required";
     int flag=0;
     LocationManager locationManager;
